@@ -39,7 +39,7 @@ export const AboutMe = () => {
 
   return (
     <SectionWrapper>
-      <TitleWrapper>About Me</TitleWrapper>
+      <TitleWrapper>Sobre mi</TitleWrapper>
       <AboutMeContainer>
         <img src={MyImage} />
         <DetailsWrapper>
